@@ -1,0 +1,51 @@
+INSERT INTO tchau_papeleta.turma VALUES ('turma1','5','SE8');
+INSERT INTO tchau_papeleta.turma VALUES ('turma2','1', 'SE1');
+INSERT INTO tchau_papeleta.turma VALUES ('turma3','3', 'SE8');
+
+INSERT INTO tchau_papeleta.aluno VALUES ('101', 'Jose Luiz Neves Voltan', 'TEN', 'turma1');
+INSERT INTO tchau_papeleta.aluno VALUES ('102', 'Gabriel Moyses Delfino', 'TEN', 'turma1');
+INSERT INTO tchau_papeleta.aluno VALUES ('103', 'Daniel dos Reis Abreu', 'CAP', 'turma1');
+
+
+INSERT INTO tchau_papeleta.aluno VALUES ('201', 'Jose Ribeiro Paiva', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('202', 'Gabriel de Castro', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('203', 'Daniele dos Santos', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('204', 'Miguel Ribeiro Neves','TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('205', 'Lucas de Castro', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('206', 'Amanda dos Santos', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('207', 'Bruna dos Santos Paiva', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('208', 'Gilherme de Souza e Silva','TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('209', 'Letícia da Silva Santos', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('210', 'Gabriela de Ribamar', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('211', 'Marina dos Santos Mouta', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('212', 'Luiza da Natividade', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('213', 'Rafael de Carvalho', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('214', 'Andreia Almeida e Souza', 'TEN', 'turma2');
+INSERT INTO tchau_papeleta.aluno VALUES ('301', 'Joge Luiz Ribeiro', 'AL', 'turma3');
+INSERT INTO tchau_papeleta.aluno VALUES ('302', 'Gabriela Marini', 'AL', 'turma3');
+INSERT INTO tchau_papeleta.aluno VALUES ('303', 'Daniel dos Reis Abreu', 'AL', 'turma3');
+
+INSERT INTO tchau_papeleta.professor VALUES ('999', 'Anderson de Souza', 'TC');
+INSERT INTO tchau_papeleta.professor VALUES ('600', 'Júlio de Castro', 'TC');
+INSERT INTO tchau_papeleta.professor VALUES ('620', 'Ramon da Silva', 'CIVIL');
+INSERT INTO tchau_papeleta.professor VALUES ('650', 'Valério da Motta', 'CEL');
+INSERT INTO tchau_papeleta.professor VALUES ('899', 'Ronaldo da Silva e Neves', 'CIVIL');
+INSERT INTO tchau_papeleta.professor VALUES ('001', 'Henrique Lage', 'CIVIL');
+INSERT INTO tchau_papeleta.professor VALUES ('030', 'Daniel Silveira', 'TEN');
+INSERT INTO tchau_papeleta.professor VALUES ('480', 'Carlos Miguel Paiva', 'CEL');
+INSERT INTO tchau_papeleta.professor VALUES ('553', 'Bruno Regalli', 'CIVIL');
+INSERT INTO tchau_papeleta.professor VALUES ('667', 'Rafael Ribeiro Paiva', 'MAJ');
+INSERT INTO tchau_papeleta.professor VALUES ('142', 'André Belarmino', 'CIVIL');
+INSERT INTO tchau_papeleta.professor VALUES ('141', 'Juliana Matos Paim', 'CIVIL');
+
+INSERT INTO tchau_papeleta.disciplina VALUES ('19022', 'Inteligencia Artificial', 'turma1', '999');
+INSERT INTO tchau_papeleta.disciplina VALUES ('19023', 'Logica', 'turma1', '600');
+INSERT INTO tchau_papeleta.disciplina VALUES ('19025', 'Banco de Dados', 'turma1', '620');
+INSERT INTO tchau_papeleta.disciplina VALUES ('19026', 'Redes1', 'turma2', '999');
+INSERT INTO tchau_papeleta.disciplina VALUES ('19027', 'Redes2', 'turma3', '999');
+
+
+
+
+
+
