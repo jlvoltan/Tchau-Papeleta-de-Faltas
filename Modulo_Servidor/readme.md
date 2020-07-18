@@ -1,0 +1,2 @@
+A ideia aqui é inicialmente fotografar individualmente a turma, usar os códigos "conversor.py" e "criador_de_inteligencia.py" para converter as fotos para escala cinza dentre outras alterações, e então gerar um aqruivo que condensa as características de cada aluno "inteligência da turma".
+Quando se tem uma nova foto da turma, se detecta cada uma das faces, e uma a uma se realiza o reconhecimento facial. Para essa última tarefa, emprega-se aquele arquivo previamente gerado com a "inteligência da turma".
