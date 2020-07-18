@@ -1,5 +1,6 @@
 ﻿# Tchau-Papeleta-de-Faltas
 TCC do curso de engenharia de computação do Instituto Militar de Engenharia. Apresentação final realiza no dia 1º de Outubro de 2018.
+Disponível em: http://www.comp.ime.eb.br/graduacao/pfc/repositorio-pfc/2018/PFC%20-%20Abreu.pdf
 
 Desenvolvimento de um sistema completo para apuragem de faltas em sala de aula utilizando reconhecimento facial. 
 
